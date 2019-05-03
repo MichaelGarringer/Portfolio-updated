@@ -1,0 +1,110 @@
+
+
+h1{font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color:#4aaaa5;
+    border-color:#cccccc;
+    border-style:solid;
+    border-width:1px;
+    text-align:center;
+        margin: 30px;
+    margin-top: 0;
+    padding: 15px;
+    
+    
+    }
+    h2{color:#4aaaa5;
+        border-bottom:solid 2px #cccccc;
+        padding:20px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align:left;
+        margin-left:10px;
+        margin-right:20px;
+        padding-bottom:10px;
+    }
+    a{color:#777777;}
+    a:link{text-decoration:none;
+    color:none;}
+a:visited{text-decoration:none;
+color;
+}
+    
+    body{
+        background-image: url("../images/white-waves.png");
+    margin:0px;
+
+   
+
+}
+    
+    .section{float:left;
+        background-color:#ffffff;
+        border: solid #dddddd 2px;
+    font-family:Arial, Helvetica, sans-serif;
+   width:960px;
+   overflow: hidden
+   
+   
+}
+    
+#mike{padding:25px;
+    float:left;}
+    p{padding-left:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#777777;}
+    
+    .aside{float:left;
+    padding-left:40px;
+    }
+
+    .polaroid {float:left;
+        padding:0px;
+        width: 30%;
+        background-color:aliceblue;
+        margin:25px;
+        margin-bottom: 25px;
+      }
+      
+      .container {background-color: #4aaaa5;
+        text-align: center;
+        padding: 3px 15px;
+        color:#ffffff;
+        font-family:Arial, Helvetica, sans-serif;
+      }
+
+form{padding:25px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#777777;
+    margin-left:25px;
+
+}
+
+footer{position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 2px solid #4aaaa5;
+    color: #ffffff;
+    background-color:#666666;
+    text-align: center;
+margin-top:-50px;}
+    
+
+   
+.button1{ background-color:#4aaaa5;
+    color:#ffffff;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block}
+  
+.bigbox{width:850px;
+    height:150px;
+font-family: Arial, Helvetica, sans-serif;}
+    .standardbox{width:850px; 
+        font-family:Arial, Helvetica, sans-serif;
+    }
+
