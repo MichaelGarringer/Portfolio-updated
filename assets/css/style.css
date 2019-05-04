@@ -26,15 +26,10 @@ h1{font-family:Georgia, 'Times New Roman', Times, serif;
     a:link{text-decoration:none;
     color:none;}
 a:visited{text-decoration:none;
-color;
 }
     
     body{
         background-image: url("../images/white-waves.png");
-    margin:0px;
-
-   
-
 }
     
     .section{float:left;
@@ -79,13 +74,14 @@ form{padding:25px;
 
 }
 
-footer{position: fixed;
+footer{padding:3px;
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     border-top: 2px solid #4aaaa5;
     color: #ffffff;
-    background-color:#666666;
+    background-color:#333333;
     text-align: center;
 margin-top:-50px;}
     
