@@ -52,15 +52,12 @@ a:visited{text-decoration:none;
     padding-left:40px;
     }
 
-    .polaroid {float:left;
-        padding:0px;
-        width: 30%;
-        background-color:aliceblue;
-        margin:25px;
-        margin-bottom: 25px;
-      }
+    ;
+    .caption{
+        text-align:center;
+    }
       
-      .container {background-color: #4aaaa5;
+      .container {
         text-align: center;
         padding: 3px 15px;
         color:#ffffff;
@@ -80,27 +77,11 @@ footer{padding:3px;
     bottom: 0;
     width: 100%;
     border-top: 2px solid #4aaaa5;
-    color: #ffffff;
+    color: #9d9d9d;
     background-color:#333333;
     text-align: center;
 margin-top:-50px;}
     
 
-   
-.button1{ background-color:#4aaaa5;
-    color:#ffffff;
-    text-align: center;
-    font-family:Arial, Helvetica, sans-serif;
-    border: none;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block}
-  
-.bigbox{width:850px;
-    height:150px;
-font-family: Arial, Helvetica, sans-serif;}
-    .standardbox{width:850px; 
-        font-family:Arial, Helvetica, sans-serif;
-    }
 
+  
