@@ -14,7 +14,10 @@
     color:none;}
 a:visited{text-decoration:none;
 }
-    
+    .navbar{
+        padding-left:10px;
+        padding-right:10px
+    }
     body{
         background-image: url("../images/white-waves.png");
 }
